@@ -1,2 +1,11 @@
 a.out
 project
+
+CMakeFiles/
+*.make
+CMakeCache
+Makefile
+*.cmake
+CMakeCache.txt
+
+ProjectSourceCode
